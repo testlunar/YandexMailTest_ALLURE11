@@ -1,0 +1,6 @@
+Steps\LoginSteps.class
+Pages\LoginPage.class
+Steps\BaseSteps.class
+Pages\ProfilePage.class
+Util\AllureListener.class
+Steps\ProfilePageSteps.class
